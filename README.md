@@ -1,2 +1,5 @@
 # Bank_system
-read readme
+
+## options
+> CRUD  operations with file system
+> transactions (deposite / withdraw)
